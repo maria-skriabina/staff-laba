@@ -1,0 +1,15 @@
+﻿  Engineer.cpp
+D:\icpc\StaffDemo2 — копия\StaffDemo2\Engineer.cpp(13,27): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+  Factory.cpp
+  main.cpp
+D:\icpc\StaffDemo2 — копия\StaffDemo2\main.cpp(15,21): warning C4305: аргумент: усечение из "double" в "float"
+D:\icpc\StaffDemo2 — копия\StaffDemo2\main.cpp(22,21): warning C4305: аргумент: усечение из "double" в "float"
+D:\icpc\StaffDemo2 — копия\StaffDemo2\main.cpp(28,22): warning C4305: аргумент: усечение из "double" в "float"
+D:\icpc\StaffDemo2 — копия\StaffDemo2\main.cpp(34,22): warning C4305: аргумент: усечение из "double" в "float"
+D:\icpc\StaffDemo2 — копия\StaffDemo2\main.cpp(40,22): warning C4305: аргумент: усечение из "double" в "float"
+D:\icpc\StaffDemo2 — копия\StaffDemo2\main.cpp(46,23): warning C4305: аргумент: усечение из "double" в "float"
+D:\icpc\StaffDemo2 — копия\StaffDemo2\main.cpp(52,22): warning C4305: аргумент: усечение из "double" в "float"
+  Manager.cpp
+D:\icpc\StaffDemo2 — копия\StaffDemo2\Manager.cpp(9,27): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+  Создание кода...
+  StaffDemo2.vcxproj -> D:\icpc\StaffDemo2 — копия\x64\Debug\StaffDemo2.exe
